@@ -29,6 +29,8 @@ Q - Descend
 
 E - Ascend
 
+Z,X,C,V - Rotate
+
 Code Structure
 
 Tema2.h / Tema2.cpp - Main simulation logic
